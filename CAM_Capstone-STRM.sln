@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAM_Capstone-STRM", "CAM_Capstone-STRM\CAM_Capstone-STRM.csproj", "{D28A5496-6C56-43D9-8B38-0661BDBEA392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAM_Capstone-STRMUnitTests", "CAM_Capstone-STRMUnitTests\CAM_Capstone-STRMUnitTests.csproj", "{70A6EA41-8C45-4B09-B67E-28A805476154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEVEmailReminder-STRM", "MEVEmailReminder-STRM\MEVEmailReminder-STRM.csproj", "{9E4C4D7D-201D-4327-8B45-F16D52E02AD2}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ModelingProject1", "ModelingProject1\ModelingProject1.modelproj", "{2C8CF814-57CD-47C5-9917-BD5935B90CC9}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.eil-server.cba.ua.edu:8080/tfs/capstone
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CAM_Capstone-STRM\\CAM_Capstone-STRM.csproj
+		SccProjectName1 = CAM_Capstone-STRM
+		SccLocalPath1 = CAM_Capstone-STRM
+		SccProjectUniqueName2 = CAM_Capstone-STRMUnitTests\\CAM_Capstone-STRMUnitTests.csproj
+		SccProjectName2 = CAM_Capstone-STRMUnitTests
+		SccLocalPath2 = CAM_Capstone-STRMUnitTests
+		SccProjectUniqueName3 = MEVEmailReminder-STRM\\MEVEmailReminder-STRM.csproj
+		SccProjectName3 = MEVEmailReminder-STRM
+		SccLocalPath3 = MEVEmailReminder-STRM
+		SccProjectUniqueName4 = ModelingProject1\\ModelingProject1.modelproj
+		SccProjectName4 = ModelingProject1
+		SccLocalPath4 = ModelingProject1
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D28A5496-6C56-43D9-8B38-0661BDBEA392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28A5496-6C56-43D9-8B38-0661BDBEA392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28A5496-6C56-43D9-8B38-0661BDBEA392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28A5496-6C56-43D9-8B38-0661BDBEA392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70A6EA41-8C45-4B09-B67E-28A805476154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A6EA41-8C45-4B09-B67E-28A805476154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A6EA41-8C45-4B09-B67E-28A805476154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A6EA41-8C45-4B09-B67E-28A805476154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E4C4D7D-201D-4327-8B45-F16D52E02AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4C4D7D-201D-4327-8B45-F16D52E02AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4C4D7D-201D-4327-8B45-F16D52E02AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4C4D7D-201D-4327-8B45-F16D52E02AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C8CF814-57CD-47C5-9917-BD5935B90CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8CF814-57CD-47C5-9917-BD5935B90CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8CF814-57CD-47C5-9917-BD5935B90CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8CF814-57CD-47C5-9917-BD5935B90CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
